@@ -32,14 +32,14 @@ Each notebook in this repository showcases a different way to interact with PDBe
 - Python
 - Jupyter Notebooks
 - PDBe APIs and web services
-- Common Python libraries (e.g., `pandas`, `requests`)
+- Common Python libraries (e.g. `pandas`, `requests`)
 
 ---
 
 
 ### 🤝 Contributing
 
-This is a personal learning project, but feedback and suggestions are welcome! Feel free to open issues or submit pull requests.
+Feedback and suggestions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
