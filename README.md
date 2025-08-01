@@ -20,10 +20,10 @@ Jupyter Notebooks have been a great way for me to explore, test, and share code 
 
 Each notebook in this repository showcases a different way to interact with PDBe resources, such as:
 
-➡️ Accessing structural data
-➡️ Visualizing protein structures
-➡️ Querying metadata
-➡️ Exploring biological annotations
+* Accessing structural data
+Visualizing protein structures
+Querying metadata
+Exploring biological annotations
 
 ---
 
@@ -45,4 +45,9 @@ This is a personal learning project, but feedback and suggestions are welcome! F
 
 ### 📫 Contact
 
-If you'd like to connect or learn more about PDBe, feel free to reach out or visit PDBe.
+If you'd like to connect or learn more about PDBe, feel free to reach out or visit:
+
+- [PDBe.org](PDBe.org)
+- [PDBe-KB.org](PDBe-KB.org)
+- [3dbeacons.org](3dbeacons.org)
+
