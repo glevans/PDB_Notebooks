@@ -20,10 +20,10 @@ Jupyter Notebooks have been a great way for me to explore, test, and share code 
 
 Each notebook in this repository showcases a different way to interact with PDBe resources, such as:
 
-* Accessing structural data
-Visualizing protein structures
-Querying metadata
-Exploring biological annotations
+- Accessing structural data
+- Visualizing protein structures
+- Querying metadata
+- Exploring biological annotations
 
 ---
 
