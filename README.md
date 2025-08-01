@@ -1,13 +1,16 @@
 ## 📘 PDB_Notebooks
 
-This repository contains Jupyter Notebooks that demonstrate how to use resources available from the **Protein Data Bank in Europe (PDBe)**. T
-hese notebooks are designed to be accessible to those new to coding and structural biology.
+This repository contains Jupyter Notebooks that demonstrate how to use resources available from the **Protein Data Bank in Europe (PDBe)**. 
+
+These notebooks are designed to be accessible to those new to coding and structural biology.
 
 ---
 
 ### 👩‍🔬 About the Author
 
-I spent many years working in wet lab research, purifying proteins and setting up crystal trays to generate structural biology data. Now, I work at **PDBe**, part of the **Worldwide Protein Data Bank (wwPDB)**, where I’ve been learning more about programming and data analysis.
+I spent many years working in wet lab research, purifying proteins and setting up crystal trays to generate structural biology data. 
+
+Now, I work at **PDBe**, part of the **Worldwide Protein Data Bank (wwPDB)**, where I’ve been learning more about programming and data analysis.
 
 Jupyter Notebooks have been a great way for me to explore, test, and share code in a user-friendly format -- especially for those who are just starting out in computational biology.
 
@@ -17,10 +20,10 @@ Jupyter Notebooks have been a great way for me to explore, test, and share code 
 
 Each notebook in this repository showcases a different way to interact with PDBe resources, such as:
 
-- Accessing structural data
-- Visualizing protein structures
-- Querying metadata
-- Exploring biological annotations
+➡️ Accessing structural data
+➡️ Visualizing protein structures
+➡️ Querying metadata
+➡️ Exploring biological annotations
 
 ---
 
@@ -33,24 +36,6 @@ Each notebook in this repository showcases a different way to interact with PDBe
 
 ---
 
-### 🚀 Getting Started
-
-To run these notebooks:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/PDB_Notebooks.git
-   ```
-2. Install dependencies (if needed):
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Launch Jupyter:
-   ```bash
-   jupyter notebook
-   ```
-
----
 
 ### 🤝 Contributing
 
