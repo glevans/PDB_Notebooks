@@ -10,7 +10,7 @@ These notebooks are designed to be accessible to those new to coding and structu
 
 I spent many years working in wet lab research, purifying proteins and setting up crystal trays to generate structural biology data. 
 
-Now, I work at **PDBe**, part of the **Worldwide Protein Data Bank (wwPDB)**, where I’ve been learning more about programming and data analysis.
+Now, I work at **Protein Data Bank in Europe (PDBe)**, part of the **Worldwide Protein Data Bank (wwPDB)**, where I’ve been learning more about programming and data analysis.
 
 Jupyter Notebooks have been a great way for me to explore, test, and share code in a user-friendly format -- especially for those who are just starting out in computational biology.
 
