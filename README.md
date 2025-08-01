@@ -47,7 +47,7 @@ This is a personal learning project, but feedback and suggestions are welcome! F
 
 If you'd like to connect or learn more about PDBe, feel free to reach out or visit:
 
-- [PDBe.org](PDBe.org)
-- [PDBe-KB.org](PDBe-KB.org)
-- [3dbeacons.org](3dbeacons.org)
+- [PDBe.org](https://www.ebi.ac.uk/pdbe/)
+- [PDBe-KB.org](https://www.ebi.ac.uk/pdbe/pdbe-kb/)
+- [3dbeacons.org](https://www.ebi.ac.uk/pdbe/pdbe-kb/3dbeacons/)
 
