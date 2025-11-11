@@ -33,6 +33,7 @@ Each notebook in this repository showcases a different way to interact with PDBe
 - Jupyter Notebooks
 - PDBe APIs and web services
 - Common Python libraries (e.g. `pandas`, `requests`)
+- Gemmi
 
 ---
 
